@@ -72,5 +72,5 @@ If the model is missing, an error message will appear.
 - Handle missing model errors gracefully with try-except blocks.
 
 ## Author
-**Your Name** ()Ibrahim Mohamed Abdilahi
+**by** IBRAHIM MOHAMED ABDILAHI @2shedo
 
